@@ -8,7 +8,7 @@ En esta opción podrá observas las facilidades de pago brindadas acorde a un pr
 En esta opción podrá contactar a un asesor (mi número de celular en este caso hipotético) incrustado con un enlace directo de Whatsapp (permitir accesos a la pc en caso se solicite)
 
 
-"Filtrado de Cursos"
+Actividad 2 - "Filtrado de Cursos"
 En el sitio web tendrá una 2da sección que brindará dos funcionalidades
 
 1. Acordeon de cursos
