@@ -113,6 +113,8 @@ body {
     color: #6682FF;
 }
 
+/**Sección 2 Finance*/
+
 .seccion2 {
     display: flex;
     align-items: center;
@@ -161,12 +163,38 @@ body {
     text-align: center;
     font-weight: bold;
     padding: 10px 20px;
+    cursor: pointer;
 }
 
 .btn-link2:hover,
 .btn-link2:active {
     background-color: #009D6E;
 }
+
+/*! Sección Venta Cursos */ 
+
+.seccion2finance {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 100px;
+    background-color: white;
+}
+
+.accordion-button {
+    background-color: #f0f0f0;
+    font-weight: bold;
+}
+
+.accordion-body img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    margin-bottom: 15px;
+}
+
+
+/*? Footer */
 
 .footer {
     background-color: #030512;
